@@ -1,0 +1,1 @@
+-w "time_namelookup: %{time_namelookup}\ntime_connect: %{time_connect}\ntime_pretransfer: %{time_pretransfer}\ntime_starttransfer: %{time_starttransfer}\n"
